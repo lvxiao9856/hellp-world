@@ -1,3 +1,5 @@
+-- this is sql file
+
 CREATE TABLE `abnormal`(
   `msisdn` string, 
   `num60` bigint)
