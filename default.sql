@@ -1,6 +1,7 @@
 -- this is sql file
 -- second change test
 -- third change test
+-- fifth change test
 CREATE TABLE `abnormal`(
   `msisdn` string, 
   `num60` bigint)
