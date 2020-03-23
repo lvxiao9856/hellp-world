@@ -2,6 +2,7 @@
 -- second change test
 -- third change test
 -- fourth change test
+-- fifth change test
 CREATE TABLE `abnormal`(
   `msisdn` string, 
   `num60` bigint)
